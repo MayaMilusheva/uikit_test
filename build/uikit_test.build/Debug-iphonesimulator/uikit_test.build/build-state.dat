@@ -1,0 +1,337 @@
+Tuikit_test
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/Info.plist uikit_test/uikit_test-Info.plist
+cSymLink /Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/uikit_test.app /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app
+cProcessPCH /var/folders/_w/pw0_vwjd78s5r_57f1htx01w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/uikit_test-Prefix-dhiocyfvgvigkjasgdjflygytxle/uikit_test-Prefix.pch.pth uikit_test/uikit_test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/ViewController.o /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/AppDelegate.o /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/main.o /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/uikit_test normal i386
+cGenerateDSYMFile /Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/uikit_test.app.dSYM /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/uikit_test
+cCopyStringsFile /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/en.lproj/InfoPlist.strings uikit_test/en.lproj/InfoPlist.strings
+cCpResource uikit_test/Default.png Frank/frankified_build/./uikit_test.app/Default.png
+cCpResource uikit_test/Default@2x.png Frank/frankified_build/./uikit_test.app/Default@2x.png
+cCpResource uikit_test/Default-568h@2x.png Frank/frankified_build/./uikit_test.app/Default-568h@2x.png
+cCompileStoryboard /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/en.lproj/MainStoryboard_iPhone.storyboard
+cCompileStoryboard /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/en.lproj/MainStoryboard_iPad.storyboard
+cTouch /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050AF6BD90000000000228FD0
+t1353673689
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050AF6BDA00000000003DCEF0
+t1353673690
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050AF6BDA00000000000015F7
+t1353673690
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050AF6BDD0000000000000E8D
+t1353673693
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050AF6BDE0000000000AB3D60
+t1353673694
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c0000000050AF6BE80000000000001B54
+t1353673704
+s6996
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app
+t2
+s0
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/Default.png
+t2
+s0
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/Default@2x.png
+t2
+s0
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/Info.plist
+t2
+s0
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/PkgInfo
+t2
+s0
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/en.lproj/MainStoryboard_iPad.storyboardc
+t2
+s0
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/en.lproj/MainStoryboard_iPhone.storyboardc
+t2
+s0
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/uikit_test
+t2
+s0
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/uikit_test.app
+t2
+s0
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/uikit_test.app.dSYM
+t2
+s0
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/uikit_test.LinkFileList
+c0000000051498C7B00000000000001B2
+t1363774587
+s434
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/AppDelegate.m
+c0000000051498A0800000000000007E0
+t1363773960
+s2016
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/ViewController.m
+c0000000051498A0800000000000001F6
+t1363773960
+s502
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/en.lproj/InfoPlist.strings
+c0000000051498A08000000000000002D
+t1363773960
+s45
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/en.lproj/MainStoryboard_iPad.storyboard
+c0000000051498A08000000000000061D
+t1363773960
+s1565
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/en.lproj/MainStoryboard_iPhone.storyboard
+c0000000051498A080000000000000603
+t1363773960
+s1539
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/main.m
+c0000000051498A080000000000000159
+t1363773960
+s345
+
+N/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/uikit_test-Prefix.pch
+c0000000051498A080000000000000143
+t1363773960
+s323
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/var/folders/_w/pw0_vwjd78s5r_57f1htx01w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/uikit_test-Prefix-dhiocyfvgvigkjasgdjflygytxle/uikit_test-Prefix.pch.pth
+t2
+s0
+
+Nuikit_test/uikit_test-Info.plist
+c0000000051498A080000000000000644
+t1363773960
+s1604
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc2f712fbc3f9b641^a24324fbc3f9b641^---0#1#0#--18"Check dependencies36"2DE331BA-0EF4-4FD8-80C5-F94EF76FB403-
+
+CCompileC build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/AppDelegate.o /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385467388.128083
+e385467388.387838
+r1
+xCompileC
+xbuild/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/AppDelegate.o
+x/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/AppDelegate.mc51b21fcc3f9b641^284963fcc3f9b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/AppDelegate.m0000000000000000^3975"CompileC build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/AppDelegate.o uikit_test/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mayamilusheva/Library/Developer/uikit_test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/mayamilusheva/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-generated-files.hmap -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-own-target-headers.hmap -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-all-target-headers.hmap -iquote /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-project-headers.hmap -I/Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/DerivedSources/i386 -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/DerivedSources -F/Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator -include /var/folders/_w/pw0_vwjd78s5r_57f1htx01w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/uikit_test-Prefix-dhiocyfvgvigkjasgdjflygytxle/uikit_test-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/AppDelegate.dia -c /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/AppDelegate.m -o /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/AppDelegate.o36"7F9C6005-9C21-4EC1-B810-B4CF1ADEEA00-
+
+CCompileC build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/ViewController.o /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385467388.128051
+e385467388.387851
+r1
+xCompileC
+xbuild/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/ViewController.o
+x/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/ViewController.m630b21fcc3f9b641^4c6f63fcc3f9b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/ViewController.m0000000000000000^3993"CompileC build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/ViewController.o uikit_test/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mayamilusheva/Library/Developer/uikit_test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/mayamilusheva/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-generated-files.hmap -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-own-target-headers.hmap -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-all-target-headers.hmap -iquote /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-project-headers.hmap -I/Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/DerivedSources/i386 -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/DerivedSources -F/Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator -include /var/folders/_w/pw0_vwjd78s5r_57f1htx01w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/uikit_test-Prefix-dhiocyfvgvigkjasgdjflygytxle/uikit_test-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/ViewController.dia -c /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/ViewController.m -o /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/ViewController.o36"EEB4C0EC-E71D-4AC4-AFEC-CEB69A521806-
+
+CCompileC build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/main.o /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385467388.128101
+e385467388.375879
+r1
+xCompileC
+xbuild/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/main.o
+x/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/main.m4c1c21fcc3f9b641^de3960fcc3f9b641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/main.m0000000000000000^3933"CompileC build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/main.o uikit_test/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mayamilusheva/Library/Developer/uikit_test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/mayamilusheva/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-generated-files.hmap -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-own-target-headers.hmap -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-all-target-headers.hmap -iquote /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-project-headers.hmap -I/Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/DerivedSources/i386 -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/DerivedSources -F/Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator -include /var/folders/_w/pw0_vwjd78s5r_57f1htx01w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/uikit_test-Prefix-dhiocyfvgvigkjasgdjflygytxle/uikit_test-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/main.dia -c /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/main.m -o /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/main.o36"9318B3CB-4131-4782-9AD8-551F29CEB2FB-
+
+CCompileStoryboard /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/en.lproj/MainStoryboard_iPad.storyboard
+s385467389.561719
+e385467396.353522
+r1
+xCompileStoryboard
+x/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/en.lproj/MainStoryboard_iPad.storyboard
+o2013-03-20 12:16:34.404 Interface Builder Cocoa Touch Tool[1134:f07] CFPreferences: user home directory at file://localhost/Users/mayamilusheva/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"CompileStoryboard uikit_test/en.lproj/MainStoryboard_iPad.storyboard00e58ffdc3f9b641^8c845a04c4f9b641^-245"2013-03-20 12:16:34.404 Interface Builder Cocoa Touch Tool[1134:f07] CFPreferences: user home directory at file://localhost/Users/mayamilusheva/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/en.lproj/MainStoryboard_iPad.storyboard0000000000000000^1212"CompileStoryboard uikit_test/en.lproj/MainStoryboard_iPad.storyboard    cd /Users/mayamilusheva/Library/Developer/uikit_test    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/mayamilusheva/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/en.lproj/MainStoryboard_iPad.storyboardc /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/en.lproj/MainStoryboard_iPad.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"062052FF-6D52-4E0B-90D5-07104B972250-
+
+CCompileStoryboard /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/en.lproj/MainStoryboard_iPhone.storyboard
+s385467389.548826
+e385467396.353619
+r1
+xCompileStoryboard
+x/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/en.lproj/MainStoryboard_iPhone.storyboard
+o2013-03-20 12:16:34.404 Interface Builder Cocoa Touch Tool[1133:f07] CFPreferences: user home directory at file://localhost/Users/mayamilusheva/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CompileStoryboard uikit_test/en.lproj/MainStoryboard_iPhone.storyboarda7ae8cfdc3f9b641^088f5a04c4f9b641^-245"2013-03-20 12:16:34.404 Interface Builder Cocoa Touch Tool[1133:f07] CFPreferences: user home directory at file://localhost/Users/mayamilusheva/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/en.lproj/MainStoryboard_iPhone.storyboard0000000000000000^1218"CompileStoryboard uikit_test/en.lproj/MainStoryboard_iPhone.storyboard    cd /Users/mayamilusheva/Library/Developer/uikit_test    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/mayamilusheva/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/en.lproj/MainStoryboard_iPhone.storyboardc /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/en.lproj/MainStoryboard_iPhone.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"CE40D0BC-C898-452A-9CCE-F3D0BAA4DDD4-
+
+CCopyStringsFile /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/en.lproj/InfoPlist.strings uikit_test/en.lproj/InfoPlist.strings
+s385467389.516670
+e385467389.575293
+r1
+xCopyStringsFile
+x/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/en.lproj/InfoPlist.strings
+xuikit_test/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy uikit_test/en.lproj/InfoPlist.strings829084fdc3f9b641^304793fdc3f9b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/en.lproj/InfoPlist.strings0000000000000000^817"CopyStringsFile Frank/frankified_build/./uikit_test.app/en.lproj/InfoPlist.strings uikit_test/en.lproj/InfoPlist.strings    cd /Users/mayamilusheva/Library/Developer/uikit_test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/mayamilusheva/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/en.lproj -- uikit_test/en.lproj/InfoPlist.strings36"A6DB4D3C-F9E1-4ACD-ADD1-3BA02D1D1381-
+
+CCpResource uikit_test/Default-568h@2x.png Frank/frankified_build/./uikit_test.app/Default-568h@2x.png
+s385467389.517350
+e385467389.560373
+r1
+xCpResource
+xuikit_test/Default-568h@2x.png
+xFrank/frankified_build/./uikit_test.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy Frank/frankified_build/./uikit_test.app/Default-568h@2x.png899684fdc3f9b641^74798ffdc3f9b641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/Default-568h@2x.png000000000080d041^857"CpResource "uikit_test/Default-568h@2x.png" "Frank/frankified_build/./uikit_test.app/Default-568h@2x.png"    cd /Users/mayamilusheva/Library/Developer/uikit_test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/mayamilusheva/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/Default-568h@2x.png" /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app36"1C46195B-A2BD-4C26-B634-57898AA5709F-
+
+CCpResource uikit_test/Default.png Frank/frankified_build/./uikit_test.app/Default.png
+s385467389.516780
+e385467389.547570
+r1
+xCpResource
+xuikit_test/Default.png
+xFrank/frankified_build/./uikit_test.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy Frank/frankified_build/./uikit_test.app/Default.pngaa7f84fdc3f9b641^452e8cfdc3f9b641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/Default.png000000000080d041^827"CpResource uikit_test/Default.png Frank/frankified_build/./uikit_test.app/Default.png    cd /Users/mayamilusheva/Library/Developer/uikit_test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/mayamilusheva/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/Default.png /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app36"45A07334-1FD1-4778-AAD4-42EAE4781200-
+
+CCpResource uikit_test/Default@2x.png Frank/frankified_build/./uikit_test.app/Default@2x.png
+s385467389.516902
+e385467389.560362
+r1
+xCpResource
+xuikit_test/Default@2x.png
+xFrank/frankified_build/./uikit_test.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy Frank/frankified_build/./uikit_test.app/Default@2x.png579684fdc3f9b641^43758ffdc3f9b641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/Default@2x.png000000000080d041^842"CpResource "uikit_test/Default@2x.png" "Frank/frankified_build/./uikit_test.app/Default@2x.png"    cd /Users/mayamilusheva/Library/Developer/uikit_test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/mayamilusheva/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/Default@2x.png" /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app36"5F9F54DD-529D-496A-87E0-8797FEAB5DB5-
+
+CGenerateDSYMFile /Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/uikit_test.app.dSYM /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/uikit_test
+s385467389.223687
+e385467389.508530
+r1
+xGenerateDSYMFile
+x/Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/uikit_test.app.dSYM
+x/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/uikit_test
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Generating /Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/uikit_test.app.dSYM7d5e39fdc3f9b641^093282fdc3f9b641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/uikit_test.app.dSYM000000000080d041^884"GenerateDSYMFile build/Debug-iphonesimulator/uikit_test.app.dSYM Frank/frankified_build/./uikit_test.app/uikit_test    cd /Users/mayamilusheva/Library/Developer/uikit_test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/mayamilusheva/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/uikit_test -o /Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/uikit_test.app.dSYM36"3A69470D-4BC7-4742-9F7C-8D76CFBD5BD4-
+
+CLd /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/uikit_test normal i386
+s385467388.394849
+e385467389.217303
+r1
+xLd
+x/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/uikit_test
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Link /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/uikit_testee4065fcc3f9b641^90a137fdc3f9b641^---0#0#0#--1637"Ld Frank/frankified_build/./uikit_test.app/uikit_test normal i386    cd /Users/mayamilusheva/Library/Developer/uikit_test    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/mayamilusheva/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator -L/Users/mayamilusheva/Library/Developer/uikit_test/Frank -F/Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator -filelist /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/Objects-normal/i386/uikit_test.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -all_load -ObjC -framework CFNetwork -framework Security -lShelley -lFrank -lShelley -lCocoaAsyncSocket -lCocoaLumberjack -lCocoaHTTPServer -lFrank -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/uikit_test36"4E4247A4-C434-4CB2-A445-7898C4F29B98-
+
+CProcessInfoPlistFile /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/Info.plist uikit_test/uikit_test-Info.plist
+s385467387.146270
+e385467387.273027
+r1
+xProcessInfoPlistFile
+x/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/Info.plist
+xuikit_test/uikit_test-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process uikit_test/uikit_test-Info.plistbea425fbc3f9b641^170c46fbc3f9b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/uikit_test-Info.plist0000000000000000^909"ProcessInfoPlistFile Frank/frankified_build/./uikit_test.app/Info.plist uikit_test/uikit_test-Info.plist    cd /Users/mayamilusheva/Library/Developer/uikit_test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/mayamilusheva/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-infoPlistUtility uikit_test/uikit_test-Info.plist -genpkginfo /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app/Info.plist36"D70F7566-247C-4346-8C8A-559B0987AC7F-
+
+CProcessPCH /var/folders/_w/pw0_vwjd78s5r_57f1htx01w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/uikit_test-Prefix-dhiocyfvgvigkjasgdjflygytxle/uikit_test-Prefix.pch.pth uikit_test/uikit_test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385467387.286107
+e385467388.120918
+r1
+xProcessPCH
+x/var/folders/_w/pw0_vwjd78s5r_57f1htx01w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/uikit_test-Prefix-dhiocyfvgvigkjasgdjflygytxle/uikit_test-Prefix.pch.pth
+xuikit_test/uikit_test-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile uikit_test/uikit_test-Prefix.pch087549fbc3f9b641^40f61efcc3f9b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/uikit_test-Prefix.pch0000000000000000^3945"ProcessPCH /var/folders/_w/pw0_vwjd78s5r_57f1htx01w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/uikit_test-Prefix-dhiocyfvgvigkjasgdjflygytxle/uikit_test-Prefix.pch.pth uikit_test/uikit_test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mayamilusheva/Library/Developer/uikit_test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/mayamilusheva/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-generated-files.hmap -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-own-target-headers.hmap -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-all-target-headers.hmap -iquote /Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/uikit_test-project-headers.hmap -I/Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/DerivedSources/i386 -I/Users/mayamilusheva/Library/Developer/uikit_test/build/uikit_test.build/Debug-iphonesimulator/uikit_test.build/DerivedSources -F/Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/_w/pw0_vwjd78s5r_57f1htx01w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/uikit_test-Prefix-dhiocyfvgvigkjasgdjflygytxle/uikit_test-Prefix.pch.dia -c /Users/mayamilusheva/Library/Developer/uikit_test/uikit_test/uikit_test-Prefix.pch -o /var/folders/_w/pw0_vwjd78s5r_57f1htx01w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/uikit_test-Prefix-dhiocyfvgvigkjasgdjflygytxle/uikit_test-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/_w/pw0_vwjd78s5r_57f1htx01w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/uikit_test-Prefix-dhiocyfvgvigkjasgdjflygytxle/uikit_test-Prefix.pch.d36"27E15874-0273-4669-8CF8-BE5BF98C98EB-
+
+CSymLink /Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/uikit_test.app /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app
+s385467387.146281
+e385467387.254205
+r1
+xSymLink
+x/Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/uikit_test.app
+x/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Process /Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/uikit_test.app93aa25fbc3f9b641^831341fbc3f9b641^---0#0#0#--756"SymLink build/Debug-iphonesimulator/uikit_test.app Frank/frankified_build/./uikit_test.app    cd /Users/mayamilusheva/Library/Developer/uikit_test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/mayamilusheva/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /bin/ln -sf /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app /Users/mayamilusheva/Library/Developer/uikit_test/build/Debug-iphonesimulator/uikit_test.app36"0F23C302-5AD4-4897-B5AB-FA13560FCD79-
+
+CTouch /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app
+s385467396.361732
+e385467396.414865
+r1
+xTouch
+x/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Touch /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.appe9ba5c04c4f9b641^00576a04c4f9b641^---0#0#0#--624"Touch Frank/frankified_build/./uikit_test.app    cd /Users/mayamilusheva/Library/Developer/uikit_test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/mayamilusheva/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/mayamilusheva/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /usr/bin/touch -c /Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app36"DC95FD3B-3279-43C8-B235-5986D1CE85B3-
+

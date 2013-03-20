@@ -1,0 +1,1 @@
+/Users/mayamilusheva/Library/Developer/uikit_test/Frank/frankified_build/./uikit_test.app
