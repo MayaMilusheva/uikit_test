@@ -51,7 +51,11 @@
     [self.tableView setIsAccessibilityElement:YES];
     [self.tableView setAccessibilityLabel:@"tableView"];
     content = [[NSMutableArray alloc] init];
-
+    
+    [self.textField setIsAccessibilityElement:YES];
+    [self.textField setAccessibilityLabel:@"textField"];
+    
+    
 	// Do any additional setup after loading the view.
 }
 
