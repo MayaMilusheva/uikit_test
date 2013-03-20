@@ -47,11 +47,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "uikit_test/SeconViewController.m"
-         timestampString = "385492972.51489"
+         timestampString = "385494657.743518"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "66"
-         endingLineNumber = "66"
+         startingLineNumber = "71"
+         endingLineNumber = "71"
          landmarkName = "-OnAddText:"
          landmarkType = "5">
       </FileBreakpoint>
