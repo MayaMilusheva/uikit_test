@@ -8,7 +8,13 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SeconViewController : UIViewController
+@interface SeconViewController : UIViewController <UITableViewDataSource> {
+    
+    NSMutableArray* content;
+}
+@property (weak, nonatomic) IBOutlet UITextField *textField;
+- (IBAction)OnAddText:(id)sender;
 @property (weak, nonatomic) IBOutlet UITableView *tableView;
+
 
 @end
