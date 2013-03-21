@@ -1,0 +1,8 @@
+
+.DS_Store
+*.swp
+Frank/frankified_build
+Frank/*.a
+Frank/frank_static_resources.bundle
+Frank/Frankify.xcconfig
+build
