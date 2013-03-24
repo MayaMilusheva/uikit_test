@@ -1,5 +1,7 @@
 #!/bin/bash
 
+USE_SIM_LAUNCHER_SERVER=1
+
 bundle install
 echo 'n' > tmp.txt
 echo '1' >> tmp.txt
