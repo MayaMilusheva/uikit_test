@@ -2,9 +2,17 @@ def app_path
   ENV['APP_BUNDLE_PATH'] || (defined?(APP_BUNDLE_PATH) && APP_BUNDLE_PATH)
 end
 
+def app_sdk
+  nil
+end
+
+def app_version
+  if ENV['FRANK_TEST_IPAD'].nil? then 'iphone' else 'ipad' end
+end
+
 Given /^I launch the app$/ do
   # latest sdk and iphone by default
-  launch_app app_path
+  launch_app app_path, app_sdk, app_version
 end
 
 Given /^I launch the app using iOS (\d\.\d)$/ do |sdk|
