@@ -6,27 +6,16 @@
 //  Copyright (c) 2013 Maya Milusheva. All rights reserved.
 //
 
-#import "open_season.h"
+#import "Kiwi.h"
 
-@implementation uikit_testTests
+SPEC_BEGIN(Truth)
 
-- (void)setUp
-{
-    [super setUp];
-    
-    // Set-up code here.
-}
+describe(@"Truth", ^{
+    context(@"Always", ^{
+        it(@"is true", ^{
+            [[theValue(2+2) should] equal:theValue(4)];
+        });
+    });
+});
 
-- (void)tearDown
-{
-    // Tear-down code here.
-    
-    [super tearDown];
-}
-
-- (void)testExample
-{
-    STFail(@"Unit tests are not implemented yet in uikit_testTests");
-}
-
-@end
+SPEC_END

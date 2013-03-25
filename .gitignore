@@ -9,4 +9,4 @@ build
 rvm.env
 tmp.txt
 Pods/
-.xcuserdatad
+*.xcuserdatad*
