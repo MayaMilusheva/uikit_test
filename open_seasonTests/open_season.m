@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Maya Milusheva. All rights reserved.
 //
 
-#import "uikit_testTests.h"
+#import "open_season.h"
 
 @implementation uikit_testTests
 

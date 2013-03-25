@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B6824C3116F9C188007F4DB4"
-               BuildableName = "uikit_test.app"
-               BlueprintName = "uikit_test"
-               ReferencedContainer = "container:uikit_test.xcodeproj">
+               BuildableName = "open_season.app"
+               BlueprintName = "open_season"
+               ReferencedContainer = "container:open_season.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B6824C5B16F9C188007F4DB4"
-               BuildableName = "uikit_testTests.octest"
-               BlueprintName = "uikit_testTests"
-               ReferencedContainer = "container:uikit_test.xcodeproj">
+               BuildableName = "open_seasonTests.octest"
+               BlueprintName = "open_seasonTests"
+               ReferencedContainer = "container:open_season.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B6824C3116F9C188007F4DB4"
-            BuildableName = "uikit_test.app"
-            BlueprintName = "uikit_test"
-            ReferencedContainer = "container:uikit_test.xcodeproj">
+            BuildableName = "open_season.app"
+            BlueprintName = "open_season"
+            ReferencedContainer = "container:open_season.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B6824C3116F9C188007F4DB4"
-            BuildableName = "uikit_test.app"
-            BlueprintName = "uikit_test"
-            ReferencedContainer = "container:uikit_test.xcodeproj">
+            BuildableName = "open_season.app"
+            BlueprintName = "open_season"
+            ReferencedContainer = "container:open_season.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B6824C3116F9C188007F4DB4"
-            BuildableName = "uikit_test.app"
-            BlueprintName = "uikit_test"
-            ReferencedContainer = "container:uikit_test.xcodeproj">
+            BuildableName = "open_season.app"
+            BlueprintName = "open_season"
+            ReferencedContainer = "container:open_season.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

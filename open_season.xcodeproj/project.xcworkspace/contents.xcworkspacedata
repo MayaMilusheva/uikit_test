@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:uikit_test.xcodeproj">
+      location = "self:open_season.xcodeproj">
    </FileRef>
 </Workspace>
